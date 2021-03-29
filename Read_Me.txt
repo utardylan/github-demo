@@ -2,7 +2,7 @@ Config_STG.sql
 >> DEFINE MIGRATE_VAL_FROM_PRIME3 = 1
 
 Config_UAT.sql
->> DEFINE MIGRATE_VAL_FROM_PRIME3 = 0
+>> DEFINE MIGRATE_VAL_FROM_PRIME3 = 2
 
 -------------------------------------------------------
 
